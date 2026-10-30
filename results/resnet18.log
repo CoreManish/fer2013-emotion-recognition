@@ -1,0 +1,66 @@
+device: cuda
+train: 28709 images
+val: 3589 images
+test: 3589 images
+ep 001 loss 1.842 train 0.264 val 0.274 f1 0.146
+ep 002 loss 1.577 train 0.424 val 0.410 f1 0.299
+ep 003 loss 1.445 train 0.502 val 0.483 f1 0.382
+ep 004 loss 1.379 train 0.537 val 0.519 f1 0.418
+ep 005 loss 1.329 train 0.564 val 0.544 f1 0.454
+ep 006 loss 1.295 train 0.582 val 0.545 f1 0.478
+ep 007 loss 1.267 train 0.598 val 0.587 f1 0.530
+ep 008 loss 1.247 train 0.607 val 0.581 f1 0.536
+ep 009 loss 1.228 train 0.617 val 0.598 f1 0.514
+ep 010 loss 1.211 train 0.627 val 0.616 f1 0.547
+ep 011 loss 1.190 train 0.632 val 0.621 f1 0.550
+ep 012 loss 1.179 train 0.641 val 0.604 f1 0.555
+ep 013 loss 1.168 train 0.646 val 0.631 f1 0.577
+ep 014 loss 1.150 train 0.654 val 0.622 f1 0.578
+ep 015 loss 1.138 train 0.661 val 0.625 f1 0.577
+ep 016 loss 1.123 train 0.670 val 0.639 f1 0.594
+ep 017 loss 1.111 train 0.679 val 0.643 f1 0.595
+ep 018 loss 1.101 train 0.681 val 0.645 f1 0.591
+ep 019 loss 1.088 train 0.688 val 0.638 f1 0.605
+ep 020 loss 1.076 train 0.695 val 0.653 f1 0.614
+ep 021 loss 1.062 train 0.702 val 0.649 f1 0.616
+ep 022 loss 1.047 train 0.711 val 0.644 f1 0.618
+ep 023 loss 1.036 train 0.716 val 0.659 f1 0.624
+ep 024 loss 1.019 train 0.725 val 0.665 f1 0.634
+ep 025 loss 1.007 train 0.733 val 0.665 f1 0.639
+ep 026 loss 0.993 train 0.738 val 0.666 f1 0.629
+ep 027 loss 0.984 train 0.744 val 0.665 f1 0.635
+ep 028 loss 0.967 train 0.752 val 0.673 f1 0.638
+ep 029 loss 0.951 train 0.761 val 0.672 f1 0.645
+ep 030 loss 0.937 train 0.768 val 0.658 f1 0.629
+ep 031 loss 0.923 train 0.776 val 0.678 f1 0.655
+ep 032 loss 0.908 train 0.785 val 0.673 f1 0.641
+ep 033 loss 0.888 train 0.794 val 0.673 f1 0.657
+ep 034 loss 0.873 train 0.801 val 0.674 f1 0.651
+ep 035 loss 0.860 train 0.808 val 0.677 f1 0.655
+ep 036 loss 0.847 train 0.813 val 0.681 f1 0.660
+ep 037 loss 0.825 train 0.824 val 0.686 f1 0.666
+ep 038 loss 0.809 train 0.833 val 0.675 f1 0.660
+ep 039 loss 0.798 train 0.838 val 0.676 f1 0.662
+ep 040 loss 0.778 train 0.848 val 0.683 f1 0.665
+ep 041 loss 0.765 train 0.855 val 0.690 f1 0.674
+ep 042 loss 0.752 train 0.863 val 0.685 f1 0.665
+ep 043 loss 0.744 train 0.867 val 0.687 f1 0.667
+ep 044 loss 0.728 train 0.874 val 0.685 f1 0.664
+ep 045 loss 0.716 train 0.881 val 0.683 f1 0.670
+ep 046 loss 0.703 train 0.888 val 0.689 f1 0.670
+ep 047 loss 0.695 train 0.894 val 0.693 f1 0.677
+ep 048 loss 0.685 train 0.895 val 0.691 f1 0.677
+ep 049 loss 0.677 train 0.901 val 0.685 f1 0.669
+ep 050 loss 0.668 train 0.904 val 0.691 f1 0.675
+ep 051 loss 0.662 train 0.907 val 0.686 f1 0.671
+ep 052 loss 0.654 train 0.911 val 0.689 f1 0.675
+ep 053 loss 0.651 train 0.914 val 0.695 f1 0.679
+ep 054 loss 0.644 train 0.916 val 0.692 f1 0.676
+ep 055 loss 0.642 train 0.919 val 0.692 f1 0.677
+ep 056 loss 0.641 train 0.919 val 0.696 f1 0.680
+ep 057 loss 0.638 train 0.921 val 0.695 f1 0.680
+ep 058 loss 0.637 train 0.922 val 0.694 f1 0.678
+ep 059 loss 0.637 train 0.921 val 0.692 f1 0.679
+ep 060 loss 0.633 train 0.924 val 0.693 f1 0.679
+
+FINAL resnet18: PrivateTest acc 0.7116, macro-F1 0.7042

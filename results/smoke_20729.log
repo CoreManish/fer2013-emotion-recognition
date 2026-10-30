@@ -1,0 +1,7 @@
+device: cpu
+train: 28709 images
+val: 3589 images
+test: 3589 images
+ep 001 loss 1.846 train 0.263 val 0.286 f1 0.137
+
+FINAL baseline: PrivateTest acc 0.2817, macro-F1 0.1363
